@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "novamira-arborwoodsglobal": {
+      "type": "http",
+      "url": "https://arborwoodsglobal.com/wp-json/mcp/novamira",
+      "headers": {
+        "Authorization": "Basic ${NOVAMIRA_AUTH_TOKEN}"
+      }
+    }
+  }
+}
